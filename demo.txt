@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hello devops team
-=======
-Hello depos team
->>>>>>> 2a28506dd90dd7e83945a83a2be672f3ee8ca87e
