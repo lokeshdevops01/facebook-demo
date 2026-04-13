@@ -1,4 +1,4 @@
 Hello devops team
 adding some dummy steps
 to test branch merge
-new correct line added in dev 2
+new line added
